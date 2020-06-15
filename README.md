@@ -1,11 +1,9 @@
 # Solaimanlipi-version2
 A better Solaimanlipi font with Ubuntu english glyphs &amp; full Webkit/Blink Support (Google Chrome/Microsoft Edge/Brave etc)
+![releasebadge](https://img.shields.io/badge/release-v2.0-brightgreen)
 
 ![Solaimanlipi Version 2](https://i.imgur.com/3moav.gif)
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
 
 ## বাংলা লেখার সবচেয়ে জনপ্রিয় ফন্ট কী? কোন ফন্টটি সবচেয়ে দেখতে সুন্দর? কোন ফন্টটি সব ওয়েবসাইটে একচেটিয়া ইউজ হচ্ছে? কোন ফন্টটি এক কথায় সবার মন কেড়েছে?
 
@@ -14,7 +12,7 @@ A better Solaimanlipi font with Ubuntu english glyphs &amp; full Webkit/Blink Su
 সোলায়মানলিপি ফন্টটা নিয়ে কাজ করলাম কারণ এই ফন্টটি সবচেয়ে সেরা ফন্ট হলেও এর কিছু সমস্যা ছিল। যেমন এই ভার্সনটি উইন্ডোজের গুগল ক্রোমের ইংলিশ রেন্ডারিং এ বেশ ঝামেলা করত। এর প্রধান কারণ ছিল English Letter গুলো একসাথে মিক্স হয়ে ভজঘট হয়ে যেত এবং কিছুই পড়া যাইত না! । যেহেতু আমি ক্রোম ইউজার প্রথম থেকেই তাই সোলায়মান করিম ভাইয়ের তৈরী সোলায়মানলিপি ভার্সন ১.০ ইউজ করতাম। কিন্তু কালকে কি মনে হতে একুশের লেটেস্ট সোলায়মানলিপিটা কাস্টোমাইজ করার সিদ্ধান্ত নিলাম এবং কিছু কাস্টোমাইজেশন করে এটিকে রিলিজ উপযোগী মনে করে আজ রিলিজ করছি।
 
 
-### সোলায়মানলিপি ভার্সন টু – নতুন কী?
+### সোলায়মানলিপি ভার্সন টু – নতুন ফিচারস কী?
 
  -  ইংলিশ ক্যারেকটারগুলো ক্রোমে যে মিলেমিশে একাকার হয়ে জগাখিচুড়ী হয়ে যেত, সেটা ফিক্স করা হয়েছে। [কৃতজ্ঞতাঃ সারিম ভাই](http://www.facebook.com/sarimk)
  - ইংলিশ ক্যারেকটারগুলো আগের লো কোয়ালিটি ফন্টে আসবে না। ক্যানোনিকালের তৈরী [Ubuntu ফন্টে আসবে](http://font.ubuntu.com/)
@@ -25,9 +23,9 @@ A better Solaimanlipi font with Ubuntu english glyphs &amp; full Webkit/Blink Su
 
 ### Installation for Windows
 
-Download the font and install it.
+[Download the font](https://github.com/saiftheboss7/Solaimanlipi-version2/releases) and install it.
 
 
-### Installat for macOS
+### Installer for macOS
 ম্যাকওসের জন্য ফন্টটি পাওয়া যাবে [অংকুরের ওয়েবসাইেটে](http://onkur.sourceforge.net/?page_id=42&lang=en)
 
